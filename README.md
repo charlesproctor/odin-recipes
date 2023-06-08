@@ -1,4 +1,4 @@
 # odin-recipes
 Odin Recipes!
 
-git@github.com:3geez/odin-recipes.git
+(https://3geez.github.io/odin-recipes/)
